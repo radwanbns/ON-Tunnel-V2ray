@@ -1,4 +1,4 @@
-# ON Tunnel
+# ON Tunnel V2ray
 
 Android VPN application: V2Ray/Xray (built-in core) and OpenVPN (through the "OpenVPN for Android" engine).
 
